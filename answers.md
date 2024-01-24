@@ -61,3 +61,6 @@ hint: to the same ref. You may want to first integrate the remote changes
 hint: (e.g., 'git pull ...') before pushing again.
 hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 
+Answer12 = yes the changes are now reflected in the local copy.
+
+Answer13 = .  ..  .git  .gitignore  README.md
